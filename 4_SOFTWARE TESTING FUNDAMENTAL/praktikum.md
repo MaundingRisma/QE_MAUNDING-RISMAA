@@ -1,0 +1,5 @@
+TASK :
+
+1. kesimpulan dari gambar adalah untuk com.hascode.tutorial.entinity dengan number classes 1 memiliki line coverage 67% atau 6/9 yang artinya mengevaluasi 67% dari baris kode yang ditulis telah dilakukan testing. untuk mutation coverage 67% atau 2/3 artinya terdapat 3 mutan 2 diantaranya terbunuh -disebabkan gagal- tetapi 1 selamat. selanjutnya untuk com.hascode.tutorial.service dengan number of classes 1 dan memiliki line coverage 100% atau 6/6 artinya pengujiannya menyapu semua jalur eksekusi, dengan demiakian skor dari baris kode adalah 100%. kemudian untuk mutation coverage 75% atau 3/4 artinya terdapat 4 mutan, 3 diantaran terbunuh tetapi 1 selamat.
+
+2. dari gambar dapat disimpulkan bahwa pada kodingan tersebut seharusnya ada fungsi yang melakukan seleksi atas fungsi yang digunakan seperti yang terdapat dalam kodingan terdapat fungsi pengurangan seharusnya ada perintah yang medefinisikan bahwa kita memakai apa, pada program ini juga tidak terdapat deklarasi. int a, int b juga seharusnya masuk ke scan f namun pada program atau kodingan tidak terdapat scanf.
